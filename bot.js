@@ -5,7 +5,7 @@
 const TOKEN = "thr1.AAAAAGrGjhtCKyxxT77arw.lnhGT9AI9XUt"; 
 const KURUCU_NICK = "berkwsy";
 const DISCORD_LINK = "https://discord.gg/XXErqRBgb";
-HBInit = require('haxball.js');
+const HBInit = require('haxball.js').HBInit;
 const room = HBInit({
   token: TOKEN,
   roomName: "⭐ 4v4 QATAR",
